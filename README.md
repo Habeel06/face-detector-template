@@ -13,5 +13,5 @@ MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 >Will add the steps ASAP
 
 ## 📺 Updates
-> Not completed .Wilol upoload the rest of the files ASAP.
+> Not completed .Will upoload the rest of the files ASAP.
 
