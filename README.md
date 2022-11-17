@@ -1,5 +1,5 @@
 # face-detector-template
-A face detector template using opencv.
+
 ## 📝About
 A face detector template using opencv.
 
