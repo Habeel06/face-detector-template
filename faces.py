@@ -6,7 +6,7 @@ import pickle
 
 face_cascade = cv2.CascadeClassifier('write full location/cascades/data/haarcascade_frontalface_alt2.xml')
 recognizer = cv2.face.LBPHFaceRecognizer_create()
-recognizer.read('C:/Users/HP/Desktop/MAIN/Scripts/PROJECTS/FaceDetector/trainer.yml')
+recognizer.read('write full location of /trainer.yml')
 
 labels={'person_name':1}
 with open("C:/Users/HP/Desktop/MAIN/Scripts/PROJECTS/FaceDetector/labels.pickle",'rb') as f:#save ids
