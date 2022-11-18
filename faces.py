@@ -4,7 +4,7 @@ import pickle
 
 
 
-face_cascade = cv2.CascadeClassifier('write full location/cascades/data/haarcascade_frontalface_alt2.xml')
+face_cascade = cv2.CascadeClassifier('write full location of /cascades/data/haarcascade_frontalface_alt2.xml')
 recognizer = cv2.face.LBPHFaceRecognizer_create()
 recognizer.read('write full location of /trainer.yml')
 
