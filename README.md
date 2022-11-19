@@ -23,7 +23,10 @@ MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 
 
 3️⃣Run   ```faces.train.py``` and wait for a while untill ```trainer.yml``` and ```labels.pickle``` file is created.
-Open faces.py and faces.train.py in code editor and paste the location of files needed there().
+
+ 
+4️⃣ Open ```faces.py``` in a code editor and paste the location of files needed there.
+
 
 
 
