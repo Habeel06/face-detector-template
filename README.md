@@ -11,7 +11,7 @@ MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 > numpy <br>
 > Pillow<br>
 ## ✔️ How to Run
->Will add the
+  Keep your images in different folders in the image folder on the basis of differences.
 
 ## 🖼️ Images
 
