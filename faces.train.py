@@ -8,7 +8,7 @@ import pickle
 
 
 
-face_cascade = cv2.CascadeClassifier('C:/Users/HP/Desktop/MAIN/Scripts/PROJECTS/FaceDetector/cascades/data/haarcascade_frontalface_alt2.xml')
+face_cascade = cv2.CascadeClassifier('full location of cascades/data/haarcascade_frontalface_alt2.xml')
 recognizer = cv2.face.LBPHFaceRecognizer_create()
 
 
