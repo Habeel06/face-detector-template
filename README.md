@@ -21,6 +21,8 @@ MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 <img src="example1.jpg">
 
 
+
+3️⃣Run   ```faces.train.py``` and wait for a while untill ```trainer.yml``` and ```labels.pickle``` file is created.
 Open faces.py and faces.train.py in code editor and paste the location of files needed there().
 
 
