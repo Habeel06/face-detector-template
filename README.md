@@ -26,7 +26,7 @@ MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 
  
 4️⃣ Open ```faces.py``` in a code editor and paste the location of files needed there.
-
+<img src="example2.jpg">
 
 
 
