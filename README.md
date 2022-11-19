@@ -13,8 +13,8 @@ MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 ## ✔️ How to Run
  
 1️⃣Keep your images in different folders in the "images" folder on the basis of differences (for example dog pictures in one folder and cat pictures in another folder).
-
-## 🖼️ Images
+>Keep one thing in mind that all the images in each folder in the "images" folder will be recognized by the name of the each folder.
+>## 🖼️ Images
 
 
 ## 📺 Updates
