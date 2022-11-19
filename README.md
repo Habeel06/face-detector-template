@@ -12,7 +12,7 @@ MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 > Pillow<br>
 ## ✔️ How to Run
  
-1️⃣Keep your images in different folders in the "image" folder on the basis of differences.
+1️⃣Keep your images in different folders in the "images" folder on the basis of differences (for example dog pictures in one folder and cat pictures in another folder).
 
 ## 🖼️ Images
 
