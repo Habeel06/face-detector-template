@@ -7,9 +7,9 @@ A face detector template using opencv.
 ## 👨‍💻 Dependencies
 MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 > opencv-python <br>
-> opencv-contrib-python
+> opencv-contrib-python<br>
 > numpy <br>
-> Pillow
+> Pillow<br>
 ## ✔️ How to Run
 >Will add the steps ASAP
 
