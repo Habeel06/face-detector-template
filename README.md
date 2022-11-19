@@ -1,6 +1,6 @@
 
 
-## 📝About
+# 📝About
 A face detector template using opencv.
 
 
