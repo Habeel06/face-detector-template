@@ -11,7 +11,10 @@ MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 > numpy <br>
 > Pillow<br>
 ## ✔️ How to Run
->Will add the steps ASAP
+>Will add the
+
+## 🖼️ Images
+
 
 ## 📺 Updates
 > Not completed .Will upoload the rest of the files ASAP.
