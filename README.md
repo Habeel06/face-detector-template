@@ -16,7 +16,7 @@ MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 >Keep one thing in mind that all the images in each folder in the "images" folder will be recognized by the name of the each folder.<br>
 >For example all the pictures in the "dog" folder will be recognized as "dog".
 
-2️⃣Open ```faces.train.py``` in a code editor and paste the location of the file there.
+2️⃣Open ```faces.train.py``` in a code editor and paste the location of the file needed there.
 
 <img src="example1.jpg">
 
