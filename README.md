@@ -29,6 +29,9 @@ MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 <img src="example2.jpg">
 
 
+5️⃣ Will add the rest steps ASAP.
+
+
 
 ## 🖼️ Images
 
