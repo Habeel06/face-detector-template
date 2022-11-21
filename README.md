@@ -37,5 +37,5 @@ MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 
 
 ## 📺 Updates
-> Not completed .Will upoload the rest of the files ASAP.
+>COMPLETED. just have to upload some images.
 
