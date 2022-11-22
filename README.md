@@ -34,8 +34,7 @@ MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 
 
 ## 🖼️ Images
-
-
+>just have to upload some images.
 ## 📺 Updates
->COMPLETED. just have to upload some images.
+>COMPLETED. 
 
