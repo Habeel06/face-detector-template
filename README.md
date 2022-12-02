@@ -33,8 +33,7 @@ MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 
 
 
-## 🖼️ Images
-Just have to upload some images.
+
 ## 📺 Updates
 >COMPLETED. 
 
