@@ -29,7 +29,8 @@ MAKE SURE THAT YOU HAVE THESE MODULES INSTALLED FIRST!
 <img src="example2.jpg">
 
 
-5️⃣ Run the ```faces.py``` file .Thats it.
+5️⃣ Run the ```faces.py``` file .
+ Then wait for few seconds so that camera dialog box opens and then it will start recognizing.
 
 
 
